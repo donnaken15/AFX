@@ -1,0 +1,141 @@
+
+     FORMULA
+
+  #############
+
+   Created and
+   directed by
+
+    donnaken15
+
+   Wesley Zane
+     Kennedy
+
+     roles:
+
+   ['editor',
+   'director',
+   'player',
+   'programmer',
+   'charter',
+   'designer']
+
+  -------------
+
+  Original song
+  and copyright
+       by
+
+   Aphex Twin
+
+   Richard D.
+     James
+
+    (c) 1999
+
+    aphextwin
+    .warp.net
+
+   LP-WAP-105
+
+  -------------
+
+   Warp Records
+
+     warp.net
+
+  -------------
+
+   Programming
+    languages
+
+    ['x86asm',
+    'c++','c#',
+   'gamemaker']
+
+  -------------
+
+     Games:
+
+ ['Guitar Hero'
+  ,'Stepmania',
+   'BIT.TRIP']
+
+  -------------
+
+     Editing
+
+    Audacity
+
+    videodev
+    soft.com
+
+  -------------
+
+   Visualizer
+
+   foobar2000
+
+  -------------
+
+    Loading
+    screens
+
+   Source SDK
+
+  -------------
+
+     Title
+
+    Help by
+
+    Xah Lee
+
+      math
+    symbols
+
+    eeemo.net
+
+    modifier
+   characters
+
+    Wikipedia
+
+   formula
+   (literally)
+   formatting
+
+  -------------
+
+     Random
+   Characters
+
+   Hxd Editor
+
+  -------------
+
+   YouTube hax
+
+   Tor Proxies
+    / Circuits
+
+   YouTube Data
+      API v3
+
+  Browser HTTP
+    Requests
+
+  -------------
+
+   youtube.com
+   /donnaken15
+
+  donnaken15.tk
+
+  -------------
+
+   THANKS FOR
+    WATCHING
+
+ XII.XXXI.MMXIX
+  XXIII:LV:XXX

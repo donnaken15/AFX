@@ -1,0 +1,19 @@
+"GameInfo"
+{
+	game 		"formula"
+	type		singleplayer_only
+	FileSystem
+	{
+		SteamAppId				400
+		ToolsAppId				211
+		SearchPaths
+		{
+			game+mod+platform	|gameinfo_path|.
+			game				|all_source_engine_paths|hl2/hl2_textures.vpk
+			game				|all_source_engine_paths|hl2/hl2_misc.vpk
+			game				hl2
+			gamebin				hl2/bin
+			default_write_path	|gameinfo_path|.
+		}
+	}
+}

@@ -1,0 +1,89 @@
+<aphex>
+	<head>
+		<formula/>
+		<speed>166</speed>
+		<rate>120.0000</rate>
+		<include>
+			<game name="Guitar Hero III: Legends of Rock" year="2007">
+			<game name="Dance Dance Revolution: Extreme" year="2002">
+			<game name="BIT.TRIP BEAT" year="2009">
+			<game name="Half-Life 2" year="2004">
+			<game name="Source Engine 24" year="2004">
+			<vis exec="foobar2000">oscillio</vis>
+			<vis exec="foobar2000">vumeter</vis>
+			<vis exec="foobar2000">spectogram</vis>
+			<vis exec="hl2">hairball</vis>
+			<vis exec="hl2">tunnel</vis>
+			<vis exec="con">AFX</vis>
+			<vis exec="con">RDJ</vis>
+			<vis exec="con">SENDING...</vis>
+			<vis exec="con">STDOUT</vis>
+			<vis exec="con">STRINGS</vis>
+			<access>YouTube Data API v3</access>
+			<client type="browser">Tor</client>
+			<client type="browser">Firefox</client>
+		</include>
+		<edit>
+			<vid>VSDC Free Video Editor</vid>
+			<vid>Open Broadcaster Software</vid>
+			<aud>Audacity 2.1.2</aud>
+			<prg>Visual Studio 2015</prg>
+			<prg>Flat Assembler</prg>
+			<prg>Notepad(++)</prg>
+		</edit>
+		<level>
+			<aud>.wav</aud>
+			<gh3>guitar.chart</gh3>
+			<ddr>song.sm</ddr>
+			<btb>equation.btb</btb>
+			<hl2>%0.bsp</hl2>
+		</level>
+	</head>
+	<hairball/>
+	<body>
+		<data ptr="00:00.20">scene01</data>
+		<data ptr="00:07.98">scene02a</data>
+		<data ptr="00:13.82">scene02b</data>
+		<data ptr="00:19.56">scene02c</data>
+		<data ptr="00:25.31">scene03a</data>
+		<data ptr="00:31.09">scene03b</data>
+		<data ptr="00:36.89">scene03c</data>
+		<data ptr="00:42.67">scene03d</data>
+		<data ptr="00:48.43">scene03e</data>
+		<data ptr="00:54.20">scene03f</data>
+		<data ptr="00:59.99">scene03g</data>
+		<data ptr="01:05.78">scene03h</data>
+		<data ptr="01:11.57">scene04a</data>
+		<data ptr="01:24.38">scene04b</data>
+		<data ptr="01:31.40">scene04c</data>
+		<data ptr="01:38.78">scene04d</data>
+		<data ptr="01:47.48">scene05</data>
+		<data ptr="02:03.90">scene06a</data>
+		<data ptr="02:09.68">scene06b</data>
+		<data ptr="02:23.29">scene06c</data>
+		<data ptr="02:27.02">scene07a</data>
+		<data ptr="02:32.60">scene07b</data>
+		<data ptr="02:38.58">scene08</data>
+		<data ptr="02:44.38">scene09</data>
+		<data ptr="02:55.97">scene10</data>
+		<data ptr="03:07.56">scene11</data>
+		<data ptr="03:13.32">scene12</data>
+		<data ptr="03:19.12">scene13a</data>
+		<data ptr="03:24.82">scene13b</data>
+		<data ptr="03:30.68">scene14</data>
+		<data ptr="03:36.37">scene15a</data>
+		<data ptr="03:42.21">scene15b</data>
+		<data ptr="03:49.03">scene15c</data>
+		<data ptr="03:57.70">scene15d</data>
+		<data ptr="04:03.49">scene16</data>
+		<data ptr="04:12.27">scene17</data>
+		<data ptr="04:14.36">scene18</data>
+		<data ptr="04:16.24">scene19</data>
+		<data ptr="04:17.71">scene20</data>
+		<data ptr="04:20.29">scene21</data>
+		<data ptr="05:00.54">scene22</data>
+		<data ptr="05:39.69">scene23</data>
+	</body>
+	<time>2019-12-31T23:54:32+0000</time>
+	<finish>2020-01-01T00:00:00+0000</finish>
+</aphex>
